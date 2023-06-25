@@ -1,0 +1,4 @@
+if condition:  
+    #block of statements   
+else:   
+    #another block of statements (else-block)   
