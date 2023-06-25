@@ -1,0 +1,4 @@
+for value in sequence:  
+     # executes the statements until sequences are exhausted  
+else:  
+     # executes these statements when for loop is completed  
