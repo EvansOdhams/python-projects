@@ -1,0 +1,11 @@
+if expression 1:   
+    # block of statements   
+  
+elif expression 2:   
+    # block of statements   
+  
+elif expression 3:   
+    # block of statements   
+  
+else:   
+    # block of statements  
