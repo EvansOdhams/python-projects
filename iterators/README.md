@@ -1,4 +1,5 @@
 # Python Iterators
+
 Iterators are objects that allow us to traverse through a collection of data, such as lists, tuples, and dictionaries, and access their elements one at a time. In Python, an iterator is an object that implements the iterator protocol, which consists of the __iter__() and __next__() methods
 
 ## Iterator Protocol
@@ -39,4 +40,10 @@ my_iter = iter(my_list)
 					return self.current - 1
 
 					In this example, we define a custom iterator MyIterator that takes two arguments start and end. The __iter__() method returns the iterator object itself, and the __next__() method returns the next item in the sequence until the iterator is exhausted
+=======
 
+An iterator is an object that contains a countable number of values.
+
+An iterator is an object that can be iterated upon, meaning that you can traverse through all the values.
+
+Technically, in Python, an iterator is an object which implements the iterator protocol, which consist of the methods __iter__() and __next__().
