@@ -56,3 +56,6 @@ A dictionary is a collection of key-value pairs. Each element in a dictionary is
 
 ## Conclusion
 Understanding different data types is crucial for effective programming. This README provided an overview of various data types, including primitive types like integers and characters, as well as composite types like arrays, strings, lists, tuples, sets, and dictionaries. Each data type has its specific use cases and operations, enabling programmers to manipulate and process data efficiently.
+
+## Auther
+Evance Odhiambo
